@@ -61,6 +61,7 @@ const Footer = () => {
             <a
               className="hover:text-blue-900"
               href="https://devoussama.netlify.app/"
+              target="_blank"
             >
               Oussama H.
             </a>
