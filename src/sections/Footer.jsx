@@ -51,9 +51,21 @@ const Footer = () => {
             height={20}
             className="rounded-full m-0"
           />
+
           <p>Copyright. All rights reserved.</p>
         </div>
-        <p className="font-montserrat cursor-pointer">Terms & Conditions</p>
+        <div className="mb-1">
+          <p className="font-montserrat cursor-pointer">Terms & Conditions</p>
+          <p>
+            Made by{" "}
+            <a
+              className="hover:text-blue-900"
+              href="https://devoussama.netlify.app/"
+            >
+              Oussama H.
+            </a>
+          </p>
+        </div>
       </div>
     </footer>
   );
