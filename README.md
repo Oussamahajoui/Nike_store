@@ -8,7 +8,7 @@ I created this landing page to showcase Nike products while demonstrating my ski
 </div>
 
 ## Project Link
-*Link to project: *[Nike Store](https://nike-e-store.netlify.app/)
+*Link to project:* [Nike Store](https://nike-e-store.netlify.app/)
 
 ## How It's Made
 
